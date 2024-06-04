@@ -1,0 +1,17 @@
+Cómo inicializaste un nuevo repositorio Git en tu máquina local y cuál fue el propósito de este paso en el proceso de subir el repositorio a GitHub?
+git init
+Detalla al menos dos cambios significativos que realizaste en tu proyecto y explícita los mensajes de commit asociados
+Se agrego la estructurs basica de html5 y se agrego una maqueta 
+git status 
+git add *
+git commit -m "mensaje" 
+git push -u origin master 
+
+Explica el proceso que seguiste para vincular tu repositorio local al repositorio en GitHub
+En el portal de la cuentaa de github se agrega en el menu + para agregar un nuevo repositorio 
+con el comando git remot add origin y se agrego la url del nuevo repositorio.
+
+Después de subir el repositorio, ¿cómo verificaste en la interfaz de GitHub que los archivos y commits realizados localmente estuvieran reflejados correctamente en el repositorio remoto?
+
+entrando nuevamente al portal de github 
+tambien se puede en la seccion del portal de branchs , la fecha de subida.
